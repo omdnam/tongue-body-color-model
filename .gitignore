@@ -1,0 +1,42 @@
+# Ignore Jupyter Notebook files
+*.ipynb
+
+# Ignore image directories
+Analysis/images/
+
+# Ignore environment file
+.env
+
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore Python virtual environment directories
+virtualenv/
+venv/
+.venv/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore data output directories
+Analysis/Output csv pkl/
+
+# Ignore MS Word temporary files
+~$*.docx
+
+# Ignore dialogue files
+Dialogue/
+
+# Ignore data files
+*.csv
+*.xlsx
+
+# Ignore model files
+*.pkl
+
+# Ignore entire Doc and Analysis directories
+Doc/
+Analysis/
+
+# Ignore manuscript and review files
+*.txt
